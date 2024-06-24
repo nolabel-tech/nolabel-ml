@@ -1,0 +1,12 @@
+[
+    {"question": "привет", "answer": "1"},
+    {"question": "как тебя зовут?", "answer": "2"},
+    {"question": "как дела?", "answer": "3"},
+    {"question": "что ты умеешь?", "answer": "4"},
+    {"question": "помощь", "answer": "5"},
+    {"question": "до свидания", "answer": "6"},
+    {"question": "спасибо", "answer": "7"},
+    {"question": "что делать, если забыл пароль?", "answer": "8"},
+    {"question": "как изменить адрес электронной почты?", "answer": "9"},
+    {"question": "мне нужна помощь с заказом", "answer": "10"}
+]
